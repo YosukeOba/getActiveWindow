@@ -1,0 +1,2 @@
+# getActiveWindow
+現在のアクティブウィンドウを取得してprocessingで受け取れるよ
